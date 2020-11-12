@@ -1,0 +1,28 @@
+body{
+    font-family: "Source Code Pro", sans-serif;
+}
+.ProductPreview{
+    width: 50%;
+    position: relative;
+}
+.ProductPreview > img {
+    width: 100%;
+
+}
+.ProductData{
+    width: 50%;
+}
+.ProductTitle{
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.MainContainer{
+    padding: 4% 12%;
+    margin-top: 32px;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
